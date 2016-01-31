@@ -21,7 +21,7 @@ You should create one R script called run_analysis.R that does the following.
 Having read the above task requirements and analyzed the structure of data set zip folder, I realized that we don't need the Inertial Signals dataset for our project. Its input of 128 readings per window are irrelevant to any of the tasks of the project. The __original data set was unchanged.__
 
 ###Setup Instructions
-(also mentioned in codebook) Remember to set the working directory to the folder which contains the run_analysis.R script before its execution. For eg: setwd("D:/git/datasciencecoursera/getting-and-cleaning-data") Download the Data Set (link below) and add it to working directory getting-and-cleaning-data/HARDataset
+Remember to set the working directory to the folder which contains the run_analysis.R script before its execution. For eg: setwd("D:/git/datasciencecoursera/getting-and-cleaning-data") Download the Data Set (link below) and add it to working directory getting-and-cleaning-data/HARDataset
 
 We need to merge the X_train.txt, y_train.txt and subject_train.txt to get a training data set and similarly for test data set.
 
