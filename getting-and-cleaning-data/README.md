@@ -19,7 +19,7 @@ Remember to set the working directory to the folder which contains the run_analy
   setwd("D:/git/datasciencecoursera/getting-and-cleaning-data") 
 Download the Data Set (link below) and add it to working directory  getting-and-cleaning-data/HARDataset
 
-#End Result
+#File Description
 1. [Input Data Set](https://github.com/KannarKK/datasciencecoursera/tree/master/getting-and-cleaning-data/HARDataset) The required unprocessed UCI Data Set
 2. [CodeBook.md](https://github.com/KannarKK/datasciencecoursera/blob/master/getting-and-cleaning-data/CodeBook.md) describes the variables, the data, and any transformations or work that I performed to clean up the data
 3. [run_analysis.R](https://github.com/KannarKK/datasciencecoursera/blob/master/getting-and-cleaning-data/run_analysis.R) my script for performing the analysis
