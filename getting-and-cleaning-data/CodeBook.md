@@ -44,7 +44,7 @@ The final merged data set is of the dimensions - 10299 * 68 (including activity 
 As mentioned in my comments within the script, I have not melted the data set since the final data set is tidy without melting as discussed in the forum.
 
 The final tidy data set is has 180 observations of 68 variables and has the following columns:
-
+(The complete description of each variable is in feature_info.txt)
  * activity                    : Factor w/ 6 levels WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
  * subject                     : ID of a person from 1 to 30
  * timeBodyAcc.mean.X          : num  
